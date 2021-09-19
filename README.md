@@ -1,2 +1,2 @@
 # GoodMatchAssessment
-An solution to the good match scenario
+A solution to the good match scenario for tennis players
